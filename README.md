@@ -20,4 +20,4 @@ A aplicação foi desenvolvida para automatizar o atendimento inicial de pacient
 - GitHub Actions
 
 ## 🚀 Acesse a aplicação
-https://leadflow-ai-git-feature-add-s3-rag-rafael-alves-vercel.vercel.app/
+https://leadflow-ai-mocha-eight.vercel.app/
