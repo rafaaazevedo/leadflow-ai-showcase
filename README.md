@@ -5,8 +5,7 @@ LeadFlow AI é um assistente inteligente para atendimento clínico desenvolvido 
 A aplicação foi desenvolvida para automatizar o atendimento inicial de pacientes, responder dúvidas com base em uma base de conhecimento, coletar informações dos usuários e auxiliar no processo de qualificação e agendamento.
 
 ## Preview
-<img src="lib/images/leadflow-ai-preview.png" alt="All screens" width="1150">
-
+<img src="images/leadflow-ai-preview.png" alt="All screens" width="1050">
 
 ## Tecnologias
 - Python
