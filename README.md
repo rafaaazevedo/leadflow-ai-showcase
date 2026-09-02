@@ -18,6 +18,7 @@ A aplicação foi desenvolvida para automatizar o atendimento inicial de pacient
 - Next.js
 - Docker
 - GitHub Actions
+- LangSmith
 
 ## 🚀 Acesse a aplicação
 https://leadflow-ai-mocha-eight.vercel.app/
