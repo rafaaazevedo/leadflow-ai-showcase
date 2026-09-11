@@ -7,6 +7,10 @@ A aplicação foi desenvolvida para automatizar o atendimento inicial de pacient
 ## Preview
 <img src="images/leadflow-ai-preview.png" alt="All screens" width="1050">
 
+<img src="images/leadflow-ai-dashboard-login.png" alt="All screens" width="1050">
+
+<img src="images/leadflow-ai-dashboard.png" alt="All screens" width="1050">
+
 ## Tecnologias
 - Python
 - FastAPI
