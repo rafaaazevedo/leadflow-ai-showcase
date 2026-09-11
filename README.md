@@ -16,13 +16,13 @@ A aplicação foi desenvolvida para automatizar o atendimento inicial de pacient
 - FastAPI
 - LangChain
 - Google Gemini
+- OpenAI
 - Llama 3 / Groq
 - Supabase
-- AWS S3
+- AWS
 - Next.js
 - Docker
 - GitHub Actions
-- LangSmith
 
 ## 🚀 Acesse a aplicação
-https://leadflow-ai-mocha-eight.vercel.app/
+https://leadflow-ai-git-feature-add-s3-rag-rafael-alves-vercel.vercel.app/
